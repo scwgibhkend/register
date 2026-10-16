@@ -1,0 +1,11 @@
+{
+  "subdomain": "aeowz",
+  "domain": "thedev.me",
+  "email_or_discord": "scwgibhkend@proton.me",
+  "github_username": "scwgibhkend",
+  "description": "Scwgibhkend's Sketchbook - personal art gallery",
+  "records": {
+    "CNAME": ["scwgibhkend-cdn.scwgibhkend.workers.dev"]
+  },
+  "proxied": false
+}
